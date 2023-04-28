@@ -2,6 +2,8 @@
 // compile with: cl /c /EHsc MathLibrary.cpp
 // post-build command: lib MathLibrary.obj
 
+// dummy change to see in Github
+
 #include "MathLibrary.h"
 
 namespace MathLibrary
